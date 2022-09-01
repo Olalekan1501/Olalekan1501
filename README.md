@@ -8,6 +8,10 @@
 
 <p align="left"> <a href="https://twitter.com/klonexofficial" target="blank" alt="olalekan1501"></a> </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=olalekan1501&label=Profile%20views&color=0e75b6&style=flat" alt="olalekan1501" /> </p>
+
+<p align="left"> <a href="https://twitter.com/klonexofficial" target="blank"><img src="https://img.shields.io/twitter/follow/klonexofficial?logo=twitter&style=for-the-badge" alt="klonexofficial" /></a> </p>
+
 - 🌱 I’m currently learning **JavaScript , VanillaJS , React**
 
 - 💬 Ask me about **HTML, CSS and JavaScript**
