@@ -1,9 +1,9 @@
-
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://[olalekan1501.io](https://github.com/Olalekan1501))
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olalekan1501&label=Profile%20views&color=0e75b6&style=flat" alt="olalekan1501" /> </p>
 
-<p align="left"> <a href="https://twitter.com/klonexofficial" target="blank"><img src="https://img.shields.io/twitter/follow/klonexofficial?logo=twitter&style=for-the-badge" alt="klonexofficial" /></a> </p>
+<p align="left"> <a href="https://twitter.com/klonexofficial" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="olalekan1501" /></a> </p>
 
 - 🌱 I’m currently learning **JavaScript , VanillaJS , React**
 
