@@ -6,7 +6,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <a href="https://twitter.com/klonexofficial" target="blank" alt="olalekan1501"></a> </p>
+<p align="left"> <a href="https://twitter.com/klonexofficial_" target="blank" alt="olalekan1501"></a> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olalekan1501&label=Profile%20views&color=0e75b6&style=flat" alt="olalekan1501" /> </p>
 
