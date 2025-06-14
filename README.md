@@ -6,7 +6,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <a href="https://twitter.com/klonexofficial_" target="blank" alt="olalekan1501"></a> </p>
+<p align="left"> <a href="https://x.com/klonexofficial_" target="blank" alt="olalekan1501"></a> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olalekan1501&label=Profile%20views&color=0e75b6&style=flat" alt="olalekan1501" /> </p>
 
@@ -22,7 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/klonexofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="klonexofficial" height="30" width="40" /></a>
+<a href="https://x.com/klonexofficial_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="klonexofficial" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/lekan peter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lekan peter" height="30" width="40" /></a>
 <a href="https://fb.com/lekan ayorinde ii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lekan ayorinde ii" height="30" width="40" /></a>
 <a href="https://instagram.com/klonexofficial1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="klonexofficial1" height="30" width="40" /></a>
